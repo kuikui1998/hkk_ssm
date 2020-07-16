@@ -1,6 +1,0 @@
-# Project exclude paths
-/hkk_ssm_dao/target/
-/hkk_ssm_domain/target/
-/hkk_ssm_service/target/
-/hkk_ssm_utils/target/
-/hkk_ssm_web/target/
